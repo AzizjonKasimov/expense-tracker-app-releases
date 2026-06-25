@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.4/Expenses-1.4.apk",
-  "notes": "Fix Telegram split notification ordering and show the actual paid amount for split transactions in History."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.5/Expenses-1.5.apk",
+  "notes": "Adds a manual update check in Settings so you can trigger the GitHub APK updater without restarting the app."
 }
