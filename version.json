@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.5/Expenses-1.5.apk",
-  "notes": "Adds a manual update check in Settings so you can trigger the GitHub APK updater without restarting the app."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.6/Expenses-1.6.apk",
+  "notes": "Adds Android demo mode with in-memory sample data and removes the legacy Telegram Mini App stack."
 }
