@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.6/Expenses-1.6.apk",
-  "notes": "Adds Android demo mode with in-memory sample data and removes the legacy Telegram Mini App stack."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.7/Expenses-1.7.apk",
+  "notes": "Fixes demo mode coverage for the Budget tab with visible sample budget data and sandboxed skipped-month state."
 }
