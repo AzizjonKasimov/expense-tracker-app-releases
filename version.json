@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.8/Expenses-1.8.apk",
-  "notes": "Cashew-inspired UI refresh with larger headers, outlined finance cards, updated navigation, improved typography, and cleaner transaction rows."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.9/Expenses-1.9.apk",
+  "notes": "UI polish: aligned review actions and redesigned Charts summary with category drill-down."
 }
