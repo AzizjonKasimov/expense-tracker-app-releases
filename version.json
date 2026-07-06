@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.10/Expenses-1.10.apk",
-  "notes": "Fixes incorrect large amounts on import; sends a total for split transactions."
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.11/Expenses-1.11.apk",
+  "notes": "Bank amounts and dates are now read directly from the statement columns instead of by the AI, preventing incorrect amounts."
 }
