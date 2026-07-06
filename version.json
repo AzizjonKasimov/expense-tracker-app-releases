@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.12/Expenses-1.12.apk",
-  "notes": "Income vs expense is now read directly from your bank statement instead of being guessed. Category rules like Coupang are always applied (most specific match wins). History transactions are now fully editable, including date and income/expense type. Charts can browse any past month."
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.13/Expenses-1.13.apk",
+  "notes": "History is now editable by tapping any transaction: change its note, date, amount, income/expense type, category, or split, or delete it. Also confirms the v1.12 fix reading income vs expense straight from your bank statement."
 }
