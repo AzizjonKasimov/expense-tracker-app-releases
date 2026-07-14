@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.13/Expenses-1.13.apk",
-  "notes": "History is now editable by tapping any transaction: change its note, date, amount, income/expense type, category, or split, or delete it. Also confirms the v1.12 fix reading income vs expense straight from your bank statement."
+  "versionCode": 15,
+  "versionName": "1.14",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.14/Expenses-1.14.apk",
+  "notes": "Add transactions manually: a new 'Add manually' button on the Mark tab lets you enter a transaction by hand (amount, note, date), then label, split, and finish it just like an imported one."
 }
