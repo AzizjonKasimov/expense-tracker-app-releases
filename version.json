@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.15/Expenses-1.15.apk",
-  "notes": "Adds Train and My meetup categories, includes original transaction prices in Telegram notifications, improves large-batch delivery, and prevents edited historical transactions from reappearing during import."
+  "versionCode": 17,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.16/Expenses-1.16.apk",
+  "notes": "Adds a blank line between transactions in grouped Telegram messages for clearer readability."
 }
