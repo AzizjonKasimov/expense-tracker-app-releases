@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.16/Expenses-1.16.apk",
-  "notes": "Adds a blank line between transactions in grouped Telegram messages for clearer readability."
+  "versionCode": 18,
+  "versionName": "1.17",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.17/Expenses-1.17.apk",
+  "notes": "Use edited transaction totals in Telegram split notifications and show Balim's payable amounts in bold."
 }
