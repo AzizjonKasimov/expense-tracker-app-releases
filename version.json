@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.20",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.20/Expenses-1.20.apk",
-  "notes": "Prevent expected coroutine cancellation from being recorded as a GitHub backup failure after overlapping or manually restarted backups."
+  "versionCode": 22,
+  "versionName": "1.21",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.21/Expenses-1.21.apk",
+  "notes": "Category mappings and ignore patterns are now included in GitHub and local backups. Saving rule changes schedules automatic backup, while older backups remain compatible and leave current rules untouched. Credentials remain local and are never backed up."
 }
