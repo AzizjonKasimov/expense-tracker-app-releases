@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.18/Expenses-1.18.apk",
-  "notes": "Gemini failures are now shown explicitly, the default model is Gemini 3.7 Flash, and GitHub backup failures persist with clear status and alerts."
+  "versionCode": 20,
+  "versionName": "1.19",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.19/Expenses-1.19.apk",
+  "notes": "Fix GitHub backup conflicts from overlapping writes and migrate Gemini labeling to gemini-3.6-flash for improved reliability."
 }
