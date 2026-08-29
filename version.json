@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.19/Expenses-1.19.apk",
-  "notes": "Fix GitHub backup conflicts from overlapping writes and migrate Gemini labeling to gemini-3.6-flash for improved reliability."
+  "versionCode": 21,
+  "versionName": "1.20",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.20/Expenses-1.20.apk",
+  "notes": "Prevent expected coroutine cancellation from being recorded as a GitHub backup failure after overlapping or manually restarted backups."
 }
