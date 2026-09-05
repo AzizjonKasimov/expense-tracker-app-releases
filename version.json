@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.21",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.21/Expenses-1.21.apk",
-  "notes": "Category mappings and ignore patterns are now included in GitHub and local backups. Saving rule changes schedules automatic backup, while older backups remain compatible and leave current rules untouched. Credentials remain local and are never backed up."
+  "versionCode": 23,
+  "versionName": "1.22",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.22/Expenses-1.22.apk",
+  "notes": "Statement parsing and category labeling now run through a private, self-hosted AI gateway instead of Gemini. The Gemini API key and model settings are replaced by a single access token, and any previously saved Gemini credentials are cleared on upgrade. The access token is now sent in an Authorization header rather than the URL. Local-rule fallback, mapping enforcement, and the code-owned amount sign are unchanged. Without an access token the app still imports using local rules."
 }
