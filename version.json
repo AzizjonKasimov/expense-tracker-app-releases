@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.22",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.22/Expenses-1.22.apk",
-  "notes": "Statement parsing and category labeling now run through a private, self-hosted AI gateway instead of Gemini. The Gemini API key and model settings are replaced by a single access token, and any previously saved Gemini credentials are cleared on upgrade. The access token is now sent in an Authorization header rather than the URL. Local-rule fallback, mapping enforcement, and the code-owned amount sign are unchanged. Without an access token the app still imports using local rules."
+  "versionCode": 24,
+  "versionName": "1.23",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.23/Expenses-1.23.apk",
+  "notes": "Coupang purchases are now named and categorised from their Gmail order receipts instead of the payment gateway. Add your Gmail address and a Google app password under Settings -> Receipt lookup to enable it."
 }
