@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.24",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.24/Expenses-1.24.apk",
-  "notes": "Categories\n- Merged duplicate categories that held the same thing twice: \"Familys money\" folded into \"Family's money\", Home Supplies now lives only under Housing, and Skin Care plus the body products filed under Home Supplies moved into Shopping > Self-care.\n- New top-level Networking category (venue rental, event tickets, hosting, food & drinks, transport) for meetup spending that used to be scattered across six places.\n- New top-level Health category (Doctor, Dental, Medication, Insurance) and Paperwork category (Visa & residency, Printing & scanning, Certificates).\n- Existing transactions are moved automatically on first launch; 99 rows are relabelled and nothing is left on a retired category.\n\nAsk AI for a category\n- The category dialog now has a \"What was this for?\" box and an Ask AI button. Describe the purchase in your own words and get up to three suggestions with a reason each. Tapping one fills the fields; Save still commits.\n- Available in both the Mark review screen and when you expand a row in History.\n\nFixes\n- A short mapping rule no longer matches inside a longer word. A two-letter \"CU\" rule was silently forcing \"Haircut\", \"documents\" and \"calculations\" into Snacks."
+  "versionCode": 26,
+  "versionName": "1.25",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.25/Expenses-1.25.apk",
+  "notes": "Coupang purchases are labeled again instead of landing in Other > Miscellaneous, and an import now tells you when no email receipts were attached."
 }
