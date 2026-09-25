@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.25/Expenses-1.25.apk",
-  "notes": "Coupang purchases are labeled again instead of landing in Other > Miscellaneous, and an import now tells you when no email receipts were attached."
+  "versionCode": 27,
+  "versionName": "1.26",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.26/Expenses-1.26.apk",
+  "notes": "Charts\n- Every slice of the spending donut now shows its percentage right away; you no longer have to tap a slice to see its share. The middle shows the period total and transaction count.\n- Tap a slice or its row to focus a category: the slice pops out, the middle shows its share and amount, and the row opens into its subcategories with their share of the category. Tap the middle to clear.\n- Tapping a subcategory lists its transactions in a box directly under it. The unlabelled \"recent transactions\" rows that used to appear under the subcategories are gone."
 }
