@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.26",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.26/Expenses-1.26.apk",
-  "notes": "Charts\n- Every slice of the spending donut now shows its percentage right away; you no longer have to tap a slice to see its share. The middle shows the period total and transaction count.\n- Tap a slice or its row to focus a category: the slice pops out, the middle shows its share and amount, and the row opens into its subcategories with their share of the category. Tap the middle to clear.\n- Tapping a subcategory lists its transactions in a box directly under it. The unlabelled \"recent transactions\" rows that used to appear under the subcategories are gone."
+  "versionCode": 28,
+  "versionName": "1.27",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.27/Expenses-1.27.apk",
+  "notes": "Refunds\n- A Coupang refund that equals one earlier Coupang charge is now taken off that purchase instead of counting as income, whether the purchase is still in review or already in History.\n- A partial refund gets a \"Deduct from a purchase\" button that lists the likely orders first. Any saved income can be deducted the same way from History.\n- \"Keep as income\" or \"Undo refund\" puts it back, and importing the same statement again never deducts a refund twice.\n- When the purchase was a split already sent to Telegram, Finish tells the group chat how much of the refund you will send back, and the total to send nets it out.\n- Tapping a History row's title, date or amount now opens it."
 }
