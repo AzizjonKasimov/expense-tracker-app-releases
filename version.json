@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.27",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.27/Expenses-1.27.apk",
-  "notes": "Refunds\n- A Coupang refund that equals one earlier Coupang charge is now taken off that purchase instead of counting as income, whether the purchase is still in review or already in History.\n- A partial refund gets a \"Deduct from a purchase\" button that lists the likely orders first. Any saved income can be deducted the same way from History.\n- \"Keep as income\" or \"Undo refund\" puts it back, and importing the same statement again never deducts a refund twice.\n- When the purchase was a split already sent to Telegram, Finish tells the group chat how much of the refund you will send back, and the total to send nets it out.\n- Tapping a History row's title, date or amount now opens it."
+  "versionCode": 29,
+  "versionName": "1.28",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.28/Expenses-1.28.apk",
+  "notes": "Charts\n- Tap a transaction in a subcategory's list to edit it right there: category, split, note, amount or date. The editor stays open after a change, so you can see where the transaction went.\n\nRefunds\n- A partial Coupang refund is now taken off its order automatically when exactly one receipt from the last 35 days lists a product at that price, and it is named after that product.\n- Finish sends the refunds owed back to her in their own Telegram message, after the splits and before the total.\n\nOther\n- Coupang receipt lookups are faster.\n- Screen subtitles are no longer cut off on phones with a tall status bar.\n- The old local file backup is gone; GitHub backup is the only backup."
 }
