@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
-  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.28/Expenses-1.28.apk",
-  "notes": "Charts\n- Tap a transaction in a subcategory's list to edit it right there: category, split, note, amount or date. The editor stays open after a change, so you can see where the transaction went.\n\nRefunds\n- A partial Coupang refund is now taken off its order automatically when exactly one receipt from the last 35 days lists a product at that price, and it is named after that product.\n- Finish sends the refunds owed back to her in their own Telegram message, after the splits and before the total.\n\nOther\n- Coupang receipt lookups are faster.\n- Screen subtitles are no longer cut off on phones with a tall status bar.\n- The old local file backup is gone; GitHub backup is the only backup."
+  "versionCode": 30,
+  "versionName": "1.29",
+  "apkUrl": "https://github.com/AzizjonKasimov/expense-tracker-app-releases/releases/download/v1.29/Sorted-1.29.apk",
+  "notes": "Expenses is now Sorted, with a new icon. Demo mode's sample statement and rules are in English."
 }
